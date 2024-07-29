@@ -19,4 +19,6 @@ if (operator === 'x') {
     result = num1 * num2;
 }
 
+console.log(args);
+
 console.log(`${num1} ${operator} ${num2} = ${result}`);
